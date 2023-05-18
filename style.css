@@ -1,0 +1,10 @@
+body{
+    background-color:white;
+}
+hr{
+    border-style: none;
+    width: 5px;
+}
+ul{
+    list-style-image: url(profile1.jpg);   
+}
